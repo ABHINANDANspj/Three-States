@@ -1,0 +1,124 @@
+
+
+html{
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color:deeppink;
+  width: fit-content;
+}
+
+.topnav a {
+  float: left;
+  color: black;
+  text-align: right;
+  padding: 29px 18px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: chartreuse;
+  color: blueviolet;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: darkturquoise;
+}
+
+
+h1{
+   font-size: 30px;
+    text-align: center;
+    font-style: bold;
+    justify-content: space-between;
+    color:blue;
+}
+
+body{
+    margin: 0;
+    font-family: sans-serif;
+  }
+  .section{
+    background-color: cyan;
+    display: flex;
+    justify-content: space-between;
+    padding: 190px;
+    width: fit-content;
+    height: fit-content;
+    margin: 10;
+  }
+  .section img{
+    height: 200px;
+  }
+  .section h1{
+    margin: 10;
+    color: red;
+  }
+  .section p{
+    color: black;
+  }
+
+  body{
+    margin: 0;
+    font-family: sans-serif;
+  }
+  .conatineer{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+    padding: 190px;
+    width: fit-content;
+    height: fit-content;
+    margin: 10;
+  }
+  .conatineer img{
+    height: 300px;
+  }
+  .conatineer h1{
+    font-size: 30px;
+    margin: 100;
+    color: red;
+  }
+
+  .conatineer p{
+    color: black;
+    
+  }
+  body{
+    margin: 0;
+    font-family: sans-serif;
+  }
+  .next{
+    background-color: darkorange;
+    display: flex;
+    justify-content: space-between;
+    padding: 190px;
+    width: fit-content;
+    height: fit-content;
+    margin: 10;
+  }
+  .next img{
+    height: 200px;
+  }
+  .next h1{
+    margin: 10;
+    color:red;
+  }
+  .next h1 b{
+    font-size: 30px;
+  }
+  .next  p{
+    color:black;
+  }
+
+
+     
+  
